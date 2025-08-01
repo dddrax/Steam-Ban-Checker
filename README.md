@@ -1,7 +1,8 @@
 # Steam-Ban-Checker
 A simple Discord bot that uses the Steam API to check if a cheater has been banned and sends information to the specified channel.
 
->>commands
+# Commands
+
 /track <steamprofile> - adds the account to the checklist, the bot checks every 24 hours whether the account has been banned.
 /untrack <steamprofile> - deletes the account you added to the list ( If an account gets banned and the bot sends a notification, the account is automatically removed from the list ).
 /checknow <steamprofile> - It checks if the account is banned immediately, rather than waiting 24 hours. If the account is banned, it sends a notification and removes the account from the checklist.
