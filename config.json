@@ -1,0 +1,7 @@
+{
+  "token": "Discord TOKEN",
+  "steamApiKey": "STEAM WEB API",
+  "channelId": "Channel ID for text",
+  "clientId": "Bot client id",
+  "guildId": "server id"
+}

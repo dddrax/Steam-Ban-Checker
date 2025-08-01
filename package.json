@@ -1,0 +1,19 @@
+{
+  "name": "banchecker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "ddrax aka cheerry",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.21.0",
+    "node-fetch": "^2.7.0",
+    "playwright": "^1.54.1",
+    "puppeteer": "^24.15.0",
+    "steamid": "^2.1.0"
+  }
+}
